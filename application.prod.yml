@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: Congig-Prod
+    name: Config-Prod
 
 eureka:
   instance:
