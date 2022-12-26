@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: Config-Prod
+    name: Canfig-prod
 
 eureka:
   instance:
